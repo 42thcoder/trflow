@@ -1,0 +1,8 @@
+<j:jelly xmlns:j="jelly:core" xmlns:f="/lib/form">
+    <f:entry title="Branch Name" field="branchName">
+        <f:textbox/>
+    </f:entry>
+    <f:entry title="Template Job Name" field="templateJobName">
+        <f:textbox/>
+    </f:entry>
+</j:jelly>
